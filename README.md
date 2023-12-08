@@ -80,5 +80,20 @@ Required tools:
 5. **Install the Motherboard**
    - Carefully place the motherboard in the case, aligning it with the standoffs.
    - Secure the motherboard with screws, ensuring it's snug and stable.
+  
+6. **Install the GPU**
+   - Identify the appropriate PCIe slot on the motherboard.
+   - Align the GPU with the slot and gently press down until it clicks into place.
+   - Secure the GPU to the case with screws.
+
+7. **Install Storage**
+   - Mount your SSD or HDD in the designated bays in the case.
+   - Connect the storage drives to the motherboard using SATA cables and to the power supply with power cables.
+
+8. **Install the PSU**
+   - Place the PSU in its designated area in the case.
+   - Connect the power cables to the motherboard, GPU, and storage drives, routing cables for neatness and airflow.
+
+
 
 ## Conclusion
