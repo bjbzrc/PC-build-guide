@@ -12,7 +12,17 @@ The purpose of this repository is to be an informative guide about building a de
 5. [Part](#Part4)
 
 ## Intro
+Whether you're a gaming enthusiast, a creative professional, or simply someone who loves a good DIY project, building your own PC can be a rewarding and cost-effective way to get exactly the performance you need without having to pay extra for assembly and handling.
 
+Required tools:
+
+* Screwdriver: A magnetic tip Phillips head screwdriver is ideal for most builds.
+* Anti-Static Wrist Strap: To protect your components from static electricity.
+* Thermal Paste: Essential for installing the CPU cooler (though many coolers come with paste pre-applied).
+* Cable Ties: For managing cables and ensuring good airflow.
+* Scissors or Snips: To cut cable ties and open packaging.
+* Flashlight: Helpful for seeing into your case's nooks and crannies.
+* Workspace: A clean, spacious, and static-free surface.
 
 ## Components of a PC
 
