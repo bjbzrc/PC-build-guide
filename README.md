@@ -23,6 +23,8 @@ Required tools:
 * Flashlight: Helpful for seeing into your case's nooks and crannies.
 * Workspace: A clean, spacious, and static-free surface.
 
+It is also **highly recommended** to use a PC component building site such as [PC Part Picker](https://pcpartpicker.com/list/) or [Logical Increments](https://www.logicalincrements.com/) when purchasing parts to be certain that all parts are compatible and to find deals on components.
+
 ## Components
 
 ### 1. **Central Processing Unit (CPU)**
