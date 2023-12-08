@@ -38,6 +38,26 @@ Required tools:
    - **Description**: RAM is the short-term memory of your computer, storing data for quick access.
    - **Installation Tips**: Insert RAM sticks into their slots on the motherboard until they click into place.
 
+### 4. **Graphics Processing Unit (GPU)**
+   - **Description**: The GPU handles rendering images, video, and animations, especially important for gaming or video editing.
+   - **Installation Tips**: Install the GPU into the PCIe slot on the motherboard and secure it to the case.
+
+### 5. **Storage (SSD/HDD)**
+   - **Description**: Storage devices hold all your data, programs, and the operating system. SSDs are faster but more expensive than HDDs.
+   - **Installation Tips**: Mount the storage drives in the case and connect them to the motherboard and power supply.
+
+### 6. **Power Supply Unit (PSU)**
+   - **Description**: The PSU provides power to your PC's components.
+   - **Installation Tips**: Fit the PSU into its bay and connect power cables to the motherboard, GPU, and storage drives.
+
+### 7. **PC Case**
+   - **Description**: The case houses all your components. It also plays a role in cooling and aesthetics.
+   - **Installation Tips**: Choose a case that fits all your components and has good airflow.
+
+### 8. **Cooling System**
+   - **Description**: Cooling systems prevent overheating. They can be air coolers or liquid cooling systems.
+   - **Installation Tips**: Install the CPU cooler and case fans to ensure adequate airflow.
+
 ## Part2
 
 ## Part3
