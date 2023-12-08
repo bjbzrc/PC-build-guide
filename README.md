@@ -7,9 +7,8 @@ The purpose of this repository is to be an informative guide about building a de
 ## Table of Contents
 1. [Intro](#Intro)
 2. [Components](#Components)
-3. [Part](#Part2)
-4. [Part](#Part3)
-5. [Part](#Part4)
+3. [Building](#Building)
+4. [Conclusion](#Conclusion)
 
 ## Intro
 Whether you're a gaming enthusiast, a creative professional, or simply someone who loves a good DIY project, building your own PC can be a rewarding and cost-effective way to get exactly the performance you need without having to pay extra for assembly and handling.
@@ -58,8 +57,15 @@ Required tools:
    - **Description**: Cooling systems prevent overheating. They can be air coolers or liquid cooling systems.
    - **Installation Tips**: Install the CPU cooler and case fans to ensure adequate airflow.
 
-## Part2
+## Building
 
-## Part3
+1. **Prepare Your Workspace**
+   - Ensure a clean, static-free environment. Lay out all tools and components.
+   - Wear an anti-static wrist strap to prevent damage to electronic parts.
 
-## Part4
+2. **Install the CPU**
+   - Open the CPU socket on the motherboard gently.
+   - Align the CPU with the socket, looking for the marking that indicates the correct orientation.
+   - Carefully place the CPU into the socket without applying pressure. It should fit snugly.
+
+## Conclusion
