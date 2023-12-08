@@ -67,6 +67,7 @@ Required tools:
    - Open the CPU socket on the motherboard gently, outside of the case.
    - Align the CPU with the socket, looking for the marking that indicates the correct orientation.
    - Carefully place the CPU into the socket without applying pressure. It should fit snugly.
+   - Secure the CPU into place with the motherboard's securing mechanism.
   
 3. **Install the RAM**
    - Open the RAM slots on the motherboard.
