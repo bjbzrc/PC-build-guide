@@ -94,6 +94,20 @@ Required tools:
    - Place the PSU in its designated area in the case.
    - Connect the power cables to the motherboard, GPU, and storage drives, routing cables for neatness and airflow.
 
-
+9. **Final Checks and First Boot**
+   - Double-check all connections, ensuring they are secure and properly seated.
+   - Close the case and connect your monitor, keyboard, and mouse.
+   - Power on your PC and enter the BIOS/UEFI to ensure everything is functioning as expected.
+   - Proceed with the installation of your operating system and drivers.
 
 ## Conclusion
+
+### Next Steps
+- **Install an Operating System**: If you haven't already, the next step is to install an operating system (OS) like Windows, Linux, or macOS (if compatible).
+- **Driver Updates**: Ensure all your hardware is running optimally by installing the latest drivers, especially for your motherboard and GPU.
+- **System Monitoring**: Consider installing software to monitor system temperatures, performance, and hardware health.
+
+### Further Learning
+- **Overclocking**: Learn about safely overclocking your CPU or GPU to enhance performance.
+- **Cooling Optimization**: Explore advanced cooling solutions to improve system efficiency and longevity.
+- **Hardware Upgrades**: As technology evolves, so can your PC. Stay informed about new hardware releases for potential upgrades.
