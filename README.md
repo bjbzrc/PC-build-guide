@@ -23,7 +23,8 @@ Required tools:
 * Flashlight: Helpful for seeing into your case's nooks and crannies.
 * Workspace: A clean, spacious, and static-free surface.
 
-It is also **highly recommended** to use a PC component building site such as [PC Part Picker](https://pcpartpicker.com/list/) or [Logical Increments](https://www.logicalincrements.com/) when purchasing parts to be certain that all parts are compatible and to find deals on components.
+It is also **highly recommended** to use a PC component building site such as [PC Part Picker](https://pcpartpicker.com/list/) <a href="[http://example.com/](https://pcpartpicker.com/list/)" target="_blank">PC Part Picker</a>
+ or [Logical Increments](https://www.logicalincrements.com/) when purchasing parts to be certain that all parts are compatible and to find deals on components.
 
 ## Components
 
