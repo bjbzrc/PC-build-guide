@@ -24,7 +24,7 @@ Required tools:
 * Flashlight: Helpful for seeing into your case's nooks and crannies.
 * Workspace: A clean, spacious, and static-free surface.
 
-## Components of a PC
+## Components
 
 ### 1. **Central Processing Unit (CPU)**
    - **Description**: The CPU is the brain of your computer, handling all instructions it receives from hardware and software.
