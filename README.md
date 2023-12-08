@@ -6,7 +6,7 @@ The purpose of this repository is to be an informative guide about building a de
 
 ## Table of Contents
 1. [Intro](##Intro)
-2. [Components](##Components-of-a-PC)
+2. [Components](##Components)
 3. [Part](#Part2)
 4. [Part](#Part3)
 5. [Part](#Part4)
