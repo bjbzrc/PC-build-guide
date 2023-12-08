@@ -108,9 +108,9 @@ It is also **highly recommended** to use a PC component building site such as [P
 ### Next Steps
 - **Install an Operating System**: If you haven't already, the next step is to install an operating system (OS) like Windows, Linux, or macOS (if compatible).
 - **Driver Updates**: Ensure all your hardware is running optimally by installing the latest drivers, especially for your motherboard and GPU.
-- **System Monitoring**: Consider installing software to monitor system temperatures, performance, and hardware health.
+- **System Monitoring**: Consider installing software to monitor system temperatures, performance, and hardware health. [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html), [GPU-Z](https://www.techpowerup.com/download/techpowerup-gpu-z/), and [Open Hardware Monitor](https://openhardwaremonitor.org/downloads/) are common monitoring programs. 
 
 ### Further Learning
-- **Overclocking**: Learn about safely overclocking your CPU or GPU to enhance performance.
-- **Cooling Optimization**: Explore advanced cooling solutions to improve system efficiency and longevity.
-- **Hardware Upgrades**: As technology evolves, so can your PC. Stay informed about new hardware releases for potential upgrades.
+- **Cooling Optimization**: Explore advanced cooling solutions to improve system efficiency and longevity. [Here](https://www.pcmag.com/how-to/pc-cooling-101-how-to-buy-the-right-air-or-water-cooler-for-your-desktop) and [here](https://performancepsu.com/ultimate-guide-to-custom-watercooling-your-pc/) are guides that explore air and liquid cooling setups.
+- **Overclocking**: If your system has adequate cooling, learn about safely overclocking your CPU or GPU to enhance performance. [Here](https://www.avast.com/c-how-to-overclock-cpu) is a guide on safely overclocking your CPU, and [here](https://www.xda-developers.com/how-overclock-gpu/) is a guide on GPU overclocking. The key to an optimal overclock is patience!
+- **Hardware Upgrades**: As technology evolves, so can your PC. Stay informed about new hardware releases for potential upgrades. [PC Part Picker](https://pcpartpicker.com/list/) and [Logical Increments](https://www.logicalincrements.com/) are also great resources for staying up-to-date on the current state of PC building.
