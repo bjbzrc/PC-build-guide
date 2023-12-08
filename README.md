@@ -1,4 +1,4 @@
-# PC-build-guide
+# PC Building Guide
 *by Brandon Buttlar*
 
 ## Purpose and Audience
